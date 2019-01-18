@@ -1,5 +1,5 @@
 {
-    "name": "weiwei/api-doc",
+    "name": "cyzonetech/api-doc",
     "description": "The ThinkPHP5 Api Doc Package",
     "type": "think-extend",
     "authors": [
@@ -19,7 +19,7 @@
     },
     "require": {
         "topthink/think-helper": ">=1.0.4",
-        "topthink/think-installer": ">=1.0.10"
+        "cyzonetech/think-installer": "2.*"
     },
     "extra": {
         "think-config": {
